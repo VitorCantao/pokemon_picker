@@ -1,0 +1,6 @@
+package com.example.pokemon_picker
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

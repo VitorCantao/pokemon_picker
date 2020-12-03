@@ -1,0 +1,26 @@
+{
+  "form_name": "",
+  "form_names": [],
+  "form_order": 1,
+  "id": 1,
+  "is_battle_only": false,
+  "is_default": true,
+  "is_mega": false,
+  "name": "Test",
+  "names": [],
+  "order": 1,
+  "pokemon": {
+    "name": "Test",
+    "url": "https://pokeapi.co/api/v2/pokemon/1/"
+  },
+  "sprites": {
+    "back_default": "",
+    "back_shiny": "",
+    "front_default": "t",
+    "front_shiny": ""
+  },
+  "version_group": {
+    "name": "",
+    "url": ""
+  }
+}
